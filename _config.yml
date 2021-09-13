@@ -29,6 +29,8 @@ github_username:  sashrakesh
 
 #search bar
 search_enabled: true
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 
 # Build settings
 theme: minima
