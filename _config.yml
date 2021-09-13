@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   files and things you needed which are virus scanned and safe to use
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "sash-rk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username:sash rakesh
+github_username:  sashrakesh
 
 # Build settings
 theme: minima
