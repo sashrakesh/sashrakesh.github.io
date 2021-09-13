@@ -27,8 +27,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "sash-rk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sashrakesh
 
+#search bar
+search_enabled: true
+
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
