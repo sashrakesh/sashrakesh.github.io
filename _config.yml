@@ -31,7 +31,7 @@ github_username:  sashrakesh
 search_enabled: true
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
